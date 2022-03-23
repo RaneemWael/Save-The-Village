@@ -15,3 +15,6 @@ Player has to take decisions to try and save their village from evil villager an
 2. Windows
   - Download the build folder to your computer.
   - Run the .exe file and enjoy!
+
+3. Online
+  - Find it as this link: https://raneemwael.itch.io/save-the-village
