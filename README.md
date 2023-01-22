@@ -13,6 +13,7 @@ Player has to take decisions to try and save their village from evil villager an
    - Run and enjoy!
 
 2. Windows:
+   - https://drive.google.com/file/d/1VtuD79-QUJ6bNRD2splC9NQ2h9QLnUX-/view?usp=drivesdk
    - Download game setup .exe file to your computer.
    - Install it and play!
 
